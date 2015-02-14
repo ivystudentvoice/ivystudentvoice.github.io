@@ -9393,9 +9393,10 @@ SMALL ONLY MEDIA QUERY
   .frontpage-box-subheadlines,
   .frontpage-main-headline {
     text-align: center;
+    color: #00D39B;
   }
 
-  /* line 289, ../scss/app.scss */
+  /* line 290, ../scss/app.scss */
   .frontpage-box-headlines,
   .frontpage-box-subheadlines {
     margin-bottom: 3rem;
