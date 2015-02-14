@@ -9204,13 +9204,6 @@ h1 a, h1 a small {
 /* line 84, ../scss/app.scss */
 .mainpage-box--topleft {
   border-right: solid 1px #00D39B;
-  border-bottom: solid 1px #00D39B;
-}
-
-/* line 89, ../scss/app.scss */
-.mainpage-box--topright {
-  border-left: solid 1px #00D39B;
-  border-bottom: solid 1px #00D39B;
 }
 
 /* line 94, ../scss/app.scss */
@@ -9221,7 +9214,6 @@ h1 a, h1 a small {
 
 /* line 99, ../scss/app.scss */
 .mainpage-box--bottomright {
-  border-left: solid 1px #00D39B;
   border-top: solid 1px #00D39B;
 }
 
