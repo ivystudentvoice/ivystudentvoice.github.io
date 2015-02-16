@@ -284,7 +284,8 @@ SMALL ONLY MEDIA QUERY
     .frontpage-box-subheadlines,
     .frontpage-main-headline {
     text-align: center;
-        color: $primary-color;
+    color: $primary-color;
+        text-decoration: underline;
     }
     
     .frontpage-box-headlines,
