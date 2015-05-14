@@ -9292,10 +9292,15 @@ p.entry-details {
   font-style: italic;
 }
 
+/* line 194, ../scss/app.scss */
+.wrap-image-from-left {
+  margin-right: 1rem;
+}
+
 /*****
 FOOTER
 ******/
-/* line 198, ../scss/app.scss */
+/* line 202, ../scss/app.scss */
 footer {
   background-color: #00D39B;
   color: #FFFFFF;
@@ -9303,7 +9308,7 @@ footer {
 }
 
 @media only screen and (max-width: 40em) {
-  /* line 205, ../scss/app.scss */
+  /* line 209, ../scss/app.scss */
   .mainpage-box--topleft,
   .mainpage-box--topright,
   .mainpage-box--bottomleft,
@@ -9311,7 +9316,7 @@ footer {
     border: none;
   }
 
-  /* line 211, ../scss/app.scss */
+  /* line 215, ../scss/app.scss */
   .toggle-topbar.menu-icon {
     font-family: "Karla", sans-serif;
   }
@@ -9319,13 +9324,13 @@ footer {
 /*****
 ABOUT
 ******/
-/* line 219, ../scss/app.scss */
+/* line 223, ../scss/app.scss */
 .about-page-custom, .about-page-custom h1 {
   background-color: #00D39B;
   color: #FFFFFF;
 }
 
-/* line 224, ../scss/app.scss */
+/* line 228, ../scss/app.scss */
 .about-headline-custom {
   margin-top: 6rem;
   margin-bottom: 2rem;
@@ -9334,12 +9339,12 @@ ABOUT
 /*****
 CONTACT
 ******/
-/* line 236, ../scss/app.scss */
+/* line 240, ../scss/app.scss */
 .contact-headline-custom {
   margin-top: 2rem;
 }
 
-/* line 240, ../scss/app.scss */
+/* line 244, ../scss/app.scss */
 .contact-text-custom {
   margin-top: 3rem;
 }
@@ -9347,17 +9352,17 @@ CONTACT
 /*****
 BODY
 ******/
-/* line 248, ../scss/app.scss */
+/* line 252, ../scss/app.scss */
 .custom-fontweight-bold {
   font-weight: 700;
 }
 
-/* line 252, ../scss/app.scss */
+/* line 256, ../scss/app.scss */
 .custom-fontweight-italic {
   font-style: italic;
 }
 
-/* line 256, ../scss/app.scss */
+/* line 260, ../scss/app.scss */
 .custom-body-image {
   margin-bottom: 1rem;
 }
@@ -9365,23 +9370,23 @@ BODY
 /*****
 COLUMNS
 ******/
-/* line 263, ../scss/app.scss */
+/* line 267, ../scss/app.scss */
 .columns-page-custom {
   margin-top: 2rem;
 }
 
-/* line 267, ../scss/app.scss */
+/* line 271, ../scss/app.scss */
 .columns-header-custom {
   margin-top: 2rem;
 }
 
-/* line 271, ../scss/app.scss */
+/* line 275, ../scss/app.scss */
 .column-page-headlines {
   line-height: 1.2;
   font-size: 1.22222rem;
 }
 
-/* line 276, ../scss/app.scss */
+/* line 280, ../scss/app.scss */
 .img-caption {
   font-family: "Karla", sans-serif;
   font-size: 0.6rem;
@@ -9393,7 +9398,7 @@ COLUMNS
 SMALL ONLY MEDIA QUERY
 ******/
 @media only screen and (max-width: 40em) {
-  /* line 287, ../scss/app.scss */
+  /* line 291, ../scss/app.scss */
   .frontpage-box-headlines,
   .frontpage-box-subheadlines,
   .frontpage-main-headline {
@@ -9402,7 +9407,7 @@ SMALL ONLY MEDIA QUERY
     text-decoration: underline;
   }
 
-  /* line 295, ../scss/app.scss */
+  /* line 299, ../scss/app.scss */
   .frontpage-box-headlines,
   .frontpage-box-subheadlines {
     margin-bottom: 3rem;

@@ -9217,15 +9217,10 @@ h1 a, h1 a small {
   border-top: solid 1px #00D39B;
 }
 
-/* line 104, ../scss/app.scss */
-h1.subhead {
-  font-size: 0.75rem;
-}
-
 /*****
 FRONT PAGE LEAD STORY
 ******/
-/* line 112, ../scss/app.scss */
+/* line 108, ../scss/app.scss */
 .frontpage-story-background {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -9236,7 +9231,7 @@ FRONT PAGE LEAD STORY
 THE BOX
 ******/
 @media only screen and (min-width: 40.063em) {
-  /* line 135, ../scss/app.scss */
+  /* line 131, ../scss/app.scss */
   .frontpage-box-headlines {
     line-height: 0.9;
     margin-top: 2rem;
@@ -9244,13 +9239,13 @@ THE BOX
     font-size: 1.5rem;
   }
 
-  /* line 141, ../scss/app.scss */
+  /* line 137, ../scss/app.scss */
   .contact-text-custom {
     text-align: right;
   }
 }
 @media only screen and (min-width: 40.063em) {
-  /* line 147, ../scss/app.scss */
+  /* line 143, ../scss/app.scss */
   .frontpage-box-subheadlines {
     text-align: center;
     line-height: 1;
@@ -9258,7 +9253,7 @@ THE BOX
     margin-top: 2rem;
   }
 }
-/* line 156, ../scss/app.scss */
+/* line 152, ../scss/app.scss */
 .the-box-div {
   margin-bottom: 3rem;
 }
@@ -9266,13 +9261,13 @@ THE BOX
 /*****
 COLUMNS
 ******/
-/* line 164, ../scss/app.scss */
+/* line 160, ../scss/app.scss */
 .column-header-custom {
   margin-top: 4rem;
   margin-bottom: 3rem;
 }
 
-/* line 169, ../scss/app.scss */
+/* line 165, ../scss/app.scss */
 .column-header-background,
 .column-header-custom h1 {
   background-color: #00D39B;
@@ -9280,27 +9275,22 @@ COLUMNS
   text-decoration: underline;
 }
 
-/* line 184, ../scss/app.scss */
+/* line 180, ../scss/app.scss */
 .column-body-text {
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
 
-/* line 189, ../scss/app.scss */
+/* line 185, ../scss/app.scss */
 p.entry-details {
   margin-top: 2rem;
   font-style: italic;
 }
 
-/* line 194, ../scss/app.scss */
-.wrap-image-from-left {
-  margin-right: 1rem;
-}
-
 /*****
 FOOTER
 ******/
-/* line 202, ../scss/app.scss */
+/* line 194, ../scss/app.scss */
 footer {
   background-color: #00D39B;
   color: #FFFFFF;
@@ -9308,7 +9298,7 @@ footer {
 }
 
 @media only screen and (max-width: 40em) {
-  /* line 209, ../scss/app.scss */
+  /* line 201, ../scss/app.scss */
   .mainpage-box--topleft,
   .mainpage-box--topright,
   .mainpage-box--bottomleft,
@@ -9316,7 +9306,7 @@ footer {
     border: none;
   }
 
-  /* line 215, ../scss/app.scss */
+  /* line 207, ../scss/app.scss */
   .toggle-topbar.menu-icon {
     font-family: "Karla", sans-serif;
   }
@@ -9324,13 +9314,13 @@ footer {
 /*****
 ABOUT
 ******/
-/* line 223, ../scss/app.scss */
+/* line 215, ../scss/app.scss */
 .about-page-custom, .about-page-custom h1 {
   background-color: #00D39B;
   color: #FFFFFF;
 }
 
-/* line 228, ../scss/app.scss */
+/* line 220, ../scss/app.scss */
 .about-headline-custom {
   margin-top: 6rem;
   margin-bottom: 2rem;
@@ -9339,12 +9329,12 @@ ABOUT
 /*****
 CONTACT
 ******/
-/* line 240, ../scss/app.scss */
+/* line 232, ../scss/app.scss */
 .contact-headline-custom {
   margin-top: 2rem;
 }
 
-/* line 244, ../scss/app.scss */
+/* line 236, ../scss/app.scss */
 .contact-text-custom {
   margin-top: 3rem;
 }
@@ -9352,17 +9342,17 @@ CONTACT
 /*****
 BODY
 ******/
-/* line 252, ../scss/app.scss */
+/* line 244, ../scss/app.scss */
 .custom-fontweight-bold {
   font-weight: 700;
 }
 
-/* line 256, ../scss/app.scss */
+/* line 248, ../scss/app.scss */
 .custom-fontweight-italic {
   font-style: italic;
 }
 
-/* line 260, ../scss/app.scss */
+/* line 252, ../scss/app.scss */
 .custom-body-image {
   margin-bottom: 1rem;
 }
@@ -9370,23 +9360,23 @@ BODY
 /*****
 COLUMNS
 ******/
-/* line 267, ../scss/app.scss */
+/* line 259, ../scss/app.scss */
 .columns-page-custom {
   margin-top: 2rem;
 }
 
-/* line 271, ../scss/app.scss */
+/* line 263, ../scss/app.scss */
 .columns-header-custom {
   margin-top: 2rem;
 }
 
-/* line 275, ../scss/app.scss */
+/* line 267, ../scss/app.scss */
 .column-page-headlines {
   line-height: 1.2;
   font-size: 1.22222rem;
 }
 
-/* line 280, ../scss/app.scss */
+/* line 272, ../scss/app.scss */
 .img-caption {
   font-family: "Karla", sans-serif;
   font-size: 0.6rem;
@@ -9398,7 +9388,7 @@ COLUMNS
 SMALL ONLY MEDIA QUERY
 ******/
 @media only screen and (max-width: 40em) {
-  /* line 291, ../scss/app.scss */
+  /* line 283, ../scss/app.scss */
   .frontpage-box-headlines,
   .frontpage-box-subheadlines,
   .frontpage-main-headline {
@@ -9407,7 +9397,7 @@ SMALL ONLY MEDIA QUERY
     text-decoration: underline;
   }
 
-  /* line 299, ../scss/app.scss */
+  /* line 291, ../scss/app.scss */
   .frontpage-box-headlines,
   .frontpage-box-subheadlines {
     margin-bottom: 3rem;
